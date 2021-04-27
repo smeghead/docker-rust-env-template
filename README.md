@@ -1,4 +1,4 @@
-# DockerでRustの開発環境のテンプレート #
+# Dockerで作るRustの開発環境のテンプレート #
 
 https://qiita.com/toully/items/1b652bec2048eefd3130
 
