@@ -1,4 +1,4 @@
-を作る# DockerでRustの開発環境のテンプレート #
+# DockerでRustの開発環境のテンプレート #
 
 https://qiita.com/toully/items/1b652bec2048eefd3130
 
